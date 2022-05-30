@@ -1,1 +1,1 @@
-A programs containing Python programming language
+A REPOSITORY containing Python programming language PROGRAMS.
